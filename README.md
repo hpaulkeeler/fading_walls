@@ -187,8 +187,3 @@ If you use this code in your research, please cite:
 }
 ```
 
-## Contact
-
-H. Paul Keeler  
-School of Mathematics and Statistics  
-University of Melbourne  
