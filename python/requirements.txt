@@ -1,0 +1,18 @@
+# Python requirements for "Reflected wireless signals" code
+# Tested with Python 3.10 on macOS, Linux, and Windows
+
+# Core numerical computing
+numpy>=1.20.0
+
+# Plotting and visualization
+matplotlib>=3.3.0
+
+# Signal processing and statistics
+scipy>=1.6.0
+
+# Optional: For faster computation (JIT compilation)
+# numba>=0.53.0
+
+# Optional: For Jupyter notebook examples
+# jupyter>=1.0.0
+# ipython>=7.0.0
