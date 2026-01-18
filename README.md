@@ -1,4 +1,4 @@
-# WallsFading
+# Code for studying reflected wireless signals under random spatial sampling
 
 Code repository for the manuscript:
 
