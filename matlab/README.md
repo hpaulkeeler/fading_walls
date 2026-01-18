@@ -193,13 +193,6 @@ If you use this code, please cite:
 
 MIT License - see LICENSE file for details
 
-## Contact
-
-H. Paul Keeler  
-School of Mathematics and Statistics  
-University of Melbourne  
-Email: hpkeeler@unimelb.edu.au
-
 ## Acknowledgments
 
 This work was developed with assistance from Claude (Anthropic) for code documentation and organization.
