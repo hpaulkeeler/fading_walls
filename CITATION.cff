@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Code for Reflected wireless signals under random spatial sampling"
+authors:
+  - family-names: Keeler
+    given-names: "H. Paul"
+version: 1.1.0
+date-released: 2026-07-21
